@@ -1,0 +1,6482 @@
+[
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2017,
+      "IMPORTE": 7075590116.26
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 7033219480.43
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 8602602030
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 17877849664.94
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2017,
+      "IMPORTE": 4076121720.3
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 2401491724.97
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 10073497903.8
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 850356553.99
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 476381761.88
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 6870286.98
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 7062150671.12
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 21392453.8
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2017,
+      "IMPORTE": 7537266.85
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2017,
+      "IMPORTE": 52.48
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2017,
+      "IMPORTE": 1417.56
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2017,
+      "IMPORTE": 13439445.14
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2017,
+      "IMPORTE": 12819918
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2017,
+      "IMPORTE": 7062.95
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2017,
+      "IMPORTE": 612464.19
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2017,
+      "IMPORTE": 627997656.13
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2017,
+      "IMPORTE": 5495768.88
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2017,
+      "IMPORTE": 7969108604.99
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2017,
+      "IMPORTE": 3190540641.03
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2017,
+      "IMPORTE": 1781336672.43
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2017,
+      "IMPORTE": 1490393.72
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2017,
+      "IMPORTE": 2528556.9
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2017,
+      "IMPORTE": 2290766097.25
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2017,
+      "IMPORTE": 23504346.54
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2017,
+      "IMPORTE": 48995516.63
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2017,
+      "IMPORTE": 20096176.98
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2017,
+      "IMPORTE": 1437047245.85
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2017,
+      "IMPORTE": 13735677.88
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2017,
+      "IMPORTE": 320178742.94
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2017,
+      "IMPORTE": 200855246.84
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2017,
+      "IMPORTE": 337078771.31
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2017,
+      "IMPORTE": 2949824953.77
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2017,
+      "IMPORTE": 863922954.1
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2017,
+      "IMPORTE": 6259749995.93
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2017,
+      "IMPORTE": 1057920.09
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2017,
+      "IMPORTE": 5812366.89
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2016,
+      "IMPORTE": 8675244027.05
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 8620387985.47
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 8670039589.38
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 17899625513.45
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2016,
+      "IMPORTE": 4015555706.57
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 2433383023.83
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 9991906737.31
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 924708945.64
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 534071100.1
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 7623766.47
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 8638912952.87
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 11799389.28
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2016,
+      "IMPORTE": 6725372.28
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2016,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2016,
+      "IMPORTE": 205.84
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2016,
+      "IMPORTE": 36331074.18
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2016,
+      "IMPORTE": 35655985.97
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2016,
+      "IMPORTE": 4811.21
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2016,
+      "IMPORTE": 670277
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2016,
+      "IMPORTE": 647511164.74
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2016,
+      "IMPORTE": 3854649.23
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2016,
+      "IMPORTE": 8018673775.41
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2016,
+      "IMPORTE": 3803108643.91
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2016,
+      "IMPORTE": 1733524202.46
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2016,
+      "IMPORTE": 505506.86
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2016,
+      "IMPORTE": 2706596.44
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2016,
+      "IMPORTE": 2278819400.81
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2016,
+      "IMPORTE": 27120888.3
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2016,
+      "IMPORTE": 40259974.6
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2016,
+      "IMPORTE": 18395892.59
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2016,
+      "IMPORTE": 1510347856.41
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2016,
+      "IMPORTE": 12886975.39
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2016,
+      "IMPORTE": 279892793.69
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2016,
+      "IMPORTE": 182084777.91
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2016,
+      "IMPORTE": 362393864.94
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2016,
+      "IMPORTE": 3191483765
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2016,
+      "IMPORTE": 818171802.07
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2016,
+      "IMPORTE": 5982251170.24
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2016,
+      "IMPORTE": 1356420.59
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2016,
+      "IMPORTE": 6267345.88
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2015,
+      "IMPORTE": 9173579671.59
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 9115969435.04
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 8297433119.04
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 17464324334.53
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2015,
+      "IMPORTE": 3119713296.76
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 2481286639.55
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 10223749904.59
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 1036639391.8
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 602935101.83
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 7624314.67
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 9128585519.64
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 6662779
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2015,
+      "IMPORTE": 5949132.51
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2015,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2015,
+      "IMPORTE": 4173.09
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2015,
+      "IMPORTE": 44994151.95
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2015,
+      "IMPORTE": 44485005
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2015,
+      "IMPORTE": 10951.42
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2015,
+      "IMPORTE": 498195.53
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2015,
+      "IMPORTE": 588580695.5
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2015,
+      "IMPORTE": 4916573.15
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2015,
+      "IMPORTE": 7703935850.39
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2015,
+      "IMPORTE": 3751900965.59
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2015,
+      "IMPORTE": 1263218625.2
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2015,
+      "IMPORTE": 20567.36
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2015,
+      "IMPORTE": 2627203.76
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2015,
+      "IMPORTE": 1853846900.44
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2015,
+      "IMPORTE": 29362250.75
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2015,
+      "IMPORTE": 51286726.23
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2015,
+      "IMPORTE": 20626081.98
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2015,
+      "IMPORTE": 1562808424.32
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2015,
+      "IMPORTE": 16055783.95
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2015,
+      "IMPORTE": 265136745.59
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2015,
+      "IMPORTE": 194025886.78
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2015,
+      "IMPORTE": 341984739.95
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2015,
+      "IMPORTE": 3371461697.42
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2015,
+      "IMPORTE": 833180007.31
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2015,
+      "IMPORTE": 6019108199.86
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2015,
+      "IMPORTE": 1392218.08
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2015,
+      "IMPORTE": 6232096.59
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2014,
+      "IMPORTE": 8076663310.91
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 8016877576.38
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 7508232394.61
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 17409606712.21
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2014,
+      "IMPORTE": 2750407889.96
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 2692092073.92
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 10120247573.85
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 1087335253.75
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 759523920.73
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 8180742.29
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 8041324629.65
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 18060713
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2014,
+      "IMPORTE": 5750074.37
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2014,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2014,
+      "IMPORTE": 636265.9
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2014,
+      "IMPORTE": 35338681.26
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2014,
+      "IMPORTE": 34921123.78
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2014,
+      "IMPORTE": 1387.01
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2014,
+      "IMPORTE": 416170.47
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2014,
+      "IMPORTE": 689348902.22
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2014,
+      "IMPORTE": 4709718.72
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2014,
+      "IMPORTE": 6814173773.67
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2014,
+      "IMPORTE": 2427912684.67
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2014,
+      "IMPORTE": 879631296.38
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2014,
+      "IMPORTE": 63878.28
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2014,
+      "IMPORTE": 2263176.95
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2014,
+      "IMPORTE": 1868449538.35
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2014,
+      "IMPORTE": 33313361.26
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2014,
+      "IMPORTE": 59437378.25
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2014,
+      "IMPORTE": 23729337.38
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2014,
+      "IMPORTE": 1734202998.02
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2014,
+      "IMPORTE": 17009235.94
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2014,
+      "IMPORTE": 266804912.48
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2014,
+      "IMPORTE": 212589814.38
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2014,
+      "IMPORTE": 345005036.21
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2014,
+      "IMPORTE": 3561780136.01
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2014,
+      "IMPORTE": 918062247.77
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2014,
+      "IMPORTE": 5640405190.07
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2014,
+      "IMPORTE": 1804437.03
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2014,
+      "IMPORTE": 6376305.26
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2013,
+      "IMPORTE": 6573457023.81
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 6520032890.02
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 7067918125.84
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 16009902153.34
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2013,
+      "IMPORTE": 2761292229.1
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 2460975054.2
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 9053598109.32
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 1061306763.29
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 672729997.43
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 8448474.38
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 6551894193.33
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 25582356.6
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2013,
+      "IMPORTE": 6278185.69
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2013,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2013,
+      "IMPORTE": 761.02
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2013,
+      "IMPORTE": 21562830.48
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2013,
+      "IMPORTE": 21095324.9
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2013,
+      "IMPORTE": 10866.02
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2013,
+      "IMPORTE": 456639.56
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2013,
+      "IMPORTE": 643798805.74
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2013,
+      "IMPORTE": 5373089.43
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2013,
+      "IMPORTE": 6418746230.67
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2013,
+      "IMPORTE": 1651660842.5
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2013,
+      "IMPORTE": 815317533.48
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2013,
+      "IMPORTE": 383.73
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2013,
+      "IMPORTE": 1579047.28
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2013,
+      "IMPORTE": 1944395264.61
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2013,
+      "IMPORTE": 33591712.45
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2013,
+      "IMPORTE": 56954365.97
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2013,
+      "IMPORTE": 20311613.23
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2013,
+      "IMPORTE": 1626238336.71
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2013,
+      "IMPORTE": 16068472.08
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2013,
+      "IMPORTE": 233629482.76
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2013,
+      "IMPORTE": 187168005.61
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2013,
+      "IMPORTE": 287013065.39
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2013,
+      "IMPORTE": 3094092740.12
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2013,
+      "IMPORTE": 871854628.35
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2013,
+      "IMPORTE": 5087650740.85
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2013,
+      "IMPORTE": 1581138.52
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2013,
+      "IMPORTE": 6867335.86
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2012,
+      "IMPORTE": 5913860460
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 5809114792
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 7029038976
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 16259490645
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2012,
+      "IMPORTE": 2759697517
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 2403613907
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 9133205443
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 1152791500
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 810182278
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 9778758
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 5887050655
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 63016631
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2012,
+      "IMPORTE": 6042250
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2012,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2012,
+      "IMPORTE": 8876983
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2012,
+      "IMPORTE": 26809804
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2012,
+      "IMPORTE": 26181673
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2012,
+      "IMPORTE": 41495
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2012,
+      "IMPORTE": 586636
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2012,
+      "IMPORTE": 689865388
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2012,
+      "IMPORTE": 3863350
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2012,
+      "IMPORTE": 6335310238
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2012,
+      "IMPORTE": 1080069587
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2012,
+      "IMPORTE": 717465141
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2012,
+      "IMPORTE": 8400
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2012,
+      "IMPORTE": 1890280
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2012,
+      "IMPORTE": 2040333697
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2012,
+      "IMPORTE": 44909101
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2012,
+      "IMPORTE": 78031243
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2012,
+      "IMPORTE": 19312404
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2012,
+      "IMPORTE": 1534816898
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2012,
+      "IMPORTE": 15792855
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2012,
+      "IMPORTE": 220543865
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2012,
+      "IMPORTE": 181962968
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2012,
+      "IMPORTE": 308244574
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2012,
+      "IMPORTE": 3094038033
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2012,
+      "IMPORTE": 865724539
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2012,
+      "IMPORTE": 5173442871
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2012,
+      "IMPORTE": 1524955
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2012,
+      "IMPORTE": 8253803
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2011,
+      "IMPORTE": 4138808761
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 4032352972
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 6140460781
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 15096174733
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2011,
+      "IMPORTE": 2388664414
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 2125270097
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 8717310056
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 1064785388
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 800144778
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 9168606
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 4092780224
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 55151142
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2011,
+      "IMPORTE": 5275953
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2011,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2011,
+      "IMPORTE": 157
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2011,
+      "IMPORTE": 46028537
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2011,
+      "IMPORTE": 45249233
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2011,
+      "IMPORTE": 37441
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2011,
+      "IMPORTE": 741863
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2011,
+      "IMPORTE": 698801112
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2011,
+      "IMPORTE": 3387728
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2011,
+      "IMPORTE": 5438271941
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2011,
+      "IMPORTE": 899061537
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2011,
+      "IMPORTE": 595081435
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2011,
+      "IMPORTE": 547236
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2011,
+      "IMPORTE": 3132664
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2011,
+      "IMPORTE": 1789903079
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2011,
+      "IMPORTE": 41258394
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2011,
+      "IMPORTE": 62850334
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2011,
+      "IMPORTE": 14841898
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2011,
+      "IMPORTE": 1350869091
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2011,
+      "IMPORTE": 16016936
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2011,
+      "IMPORTE": 198197322
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2011,
+      "IMPORTE": 159989359
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2011,
+      "IMPORTE": 281246763
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2011,
+      "IMPORTE": 2811186412
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2011,
+      "IMPORTE": 868960462
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2011,
+      "IMPORTE": 5037163183
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2011,
+      "IMPORTE": 1245270
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2011,
+      "IMPORTE": 7923335
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2010,
+      "IMPORTE": 2882779310
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 2818806936
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 6469696280
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 13212320175
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2010,
+      "IMPORTE": 2287652087
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 1802175726
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 7723970832
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 867216541
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 531304990
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 8961106
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 2856915447
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 32834618
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2010,
+      "IMPORTE": 5273595
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2010,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2010,
+      "IMPORTE": 298
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2010,
+      "IMPORTE": 25863863
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2010,
+      "IMPORTE": 25146685
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2010,
+      "IMPORTE": 866
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2010,
+      "IMPORTE": 716311
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2010,
+      "IMPORTE": 641500375
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2010,
+      "IMPORTE": 2726865
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2010,
+      "IMPORTE": 5825469040
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2010,
+      "IMPORTE": 1023673105
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2010,
+      "IMPORTE": 609613756
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2010,
+      "IMPORTE": 2036907
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2010,
+      "IMPORTE": 2440272
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2010,
+      "IMPORTE": 1673561152
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2010,
+      "IMPORTE": 32751126
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2010,
+      "IMPORTE": 44792828
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2010,
+      "IMPORTE": 13167094
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2010,
+      "IMPORTE": 1137660575
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2010,
+      "IMPORTE": 16890386
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2010,
+      "IMPORTE": 173380904
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2010,
+      "IMPORTE": 139965284
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2010,
+      "IMPORTE": 243567529
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2010,
+      "IMPORTE": 2275023726
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2010,
+      "IMPORTE": 868956876
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2010,
+      "IMPORTE": 4579990231
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2010,
+      "IMPORTE": 1371195
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2010,
+      "IMPORTE": 7589911
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2009,
+      "IMPORTE": 2406220109
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 2290063722
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 6051109732
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 10991788915
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2009,
+      "IMPORTE": 1940769015
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 1406648687
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 6556954044
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 736616984
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 350800185
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 9737859
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 2338422286
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 43179353
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2009,
+      "IMPORTE": 5178538
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2009,
+      "IMPORTE": 35
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2009,
+      "IMPORTE": 638
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2009,
+      "IMPORTE": 67797823
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2009,
+      "IMPORTE": 67082116
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2009,
+      "IMPORTE": 1056
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2009,
+      "IMPORTE": 714651
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2009,
+      "IMPORTE": 593413903
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2009,
+      "IMPORTE": 2158008
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2009,
+      "IMPORTE": 5455537821
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2009,
+      "IMPORTE": 977139880
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2009,
+      "IMPORTE": 478001612
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2009,
+      "IMPORTE": 867753
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2009,
+      "IMPORTE": 2549106
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2009,
+      "IMPORTE": 1459350544
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2009,
+      "IMPORTE": 27256767
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2009,
+      "IMPORTE": 33789101
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2009,
+      "IMPORTE": 11137784
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2009,
+      "IMPORTE": 840474304
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2009,
+      "IMPORTE": 14353538
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2009,
+      "IMPORTE": 151749575
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2009,
+      "IMPORTE": 120430961
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2009,
+      "IMPORTE": 207456657
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2009,
+      "IMPORTE": 1848216034
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2009,
+      "IMPORTE": 740543224
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2009,
+      "IMPORTE": 3968194787
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2009,
+      "IMPORTE": 2417187
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2009,
+      "IMPORTE": 7320672
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2008,
+      "IMPORTE": 2264272872
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 1895256572
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 6011400528
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 12578354782
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2008,
+      "IMPORTE": 2070483780
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 1454665737
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 7650591632
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 934841249
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 467772384
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 11546500
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 2191647234
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 9604388
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2008,
+      "IMPORTE": 3619775
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2008,
+      "IMPORTE": 36526
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2008,
+      "IMPORTE": 283129974
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2008,
+      "IMPORTE": 72625637
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2008,
+      "IMPORTE": 72067397
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2008,
+      "IMPORTE": 2454
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2008,
+      "IMPORTE": 555786
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2008,
+      "IMPORTE": 573963855
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2008,
+      "IMPORTE": 2126915
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2008,
+      "IMPORTE": 5435309758
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2008,
+      "IMPORTE": 1008851610
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2008,
+      "IMPORTE": 431261704
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2008,
+      "IMPORTE": 499190
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2008,
+      "IMPORTE": 1678851
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2008,
+      "IMPORTE": 1637044035
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2008,
+      "IMPORTE": 25602844
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2008,
+      "IMPORTE": 38792590
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2008,
+      "IMPORTE": 14746443
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2008,
+      "IMPORTE": 854116829
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2008,
+      "IMPORTE": 15338085
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2008,
+      "IMPORTE": 166103314
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2008,
+      "IMPORTE": 119791129
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2008,
+      "IMPORTE": 220174503
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2008,
+      "IMPORTE": 2440577688
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2008,
+      "IMPORTE": 882388470
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2008,
+      "IMPORTE": 4327625474
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2008,
+      "IMPORTE": 3028515
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2008,
+      "IMPORTE": 8517985
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2007,
+      "IMPORTE": 1547959737
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 749942057
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 6063495363
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 12627587578
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2007,
+      "IMPORTE": 1961179885
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 1441063908
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 7872300043
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 775615421
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 577428321
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 9589868
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 1458005482
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 5941750
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2007,
+      "IMPORTE": 4630162
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2007,
+      "IMPORTE": 8
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2007,
+      "IMPORTE": 697491504
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2007,
+      "IMPORTE": 89954254
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2007,
+      "IMPORTE": 89168801
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2007,
+      "IMPORTE": 1031
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2007,
+      "IMPORTE": 784422
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2007,
+      "IMPORTE": 609694621
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2007,
+      "IMPORTE": 1656074
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2007,
+      "IMPORTE": 5452144668
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2007,
+      "IMPORTE": 902050303
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2007,
+      "IMPORTE": 424721570
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2007,
+      "IMPORTE": 587786
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2007,
+      "IMPORTE": 1486921
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2007,
+      "IMPORTE": 1534383608
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2007,
+      "IMPORTE": 28066252
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2007,
+      "IMPORTE": 39836305
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2007,
+      "IMPORTE": 14793753
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2007,
+      "IMPORTE": 839687011
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2007,
+      "IMPORTE": 13672130
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2007,
+      "IMPORTE": 161051243
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2007,
+      "IMPORTE": 104047963
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2007,
+      "IMPORTE": 239909252
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2007,
+      "IMPORTE": 2549627714
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2007,
+      "IMPORTE": 874973118
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2007,
+      "IMPORTE": 4447699210
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2007,
+      "IMPORTE": 2323453
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2007,
+      "IMPORTE": 7266416
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2006,
+      "IMPORTE": 1248145552
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 779935410
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 5971831649
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 11282898558
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2006,
+      "IMPORTE": 1696795129
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 1300757251
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 7214558289
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 622627744
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 448160145
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 8658382
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 1215944005
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 19917018
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2006,
+      "IMPORTE": 4412793
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2006,
+      "IMPORTE": 74
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2006,
+      "IMPORTE": 411678710
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2006,
+      "IMPORTE": 32201547
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2006,
+      "IMPORTE": 31245212
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2006,
+      "IMPORTE": 287
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2006,
+      "IMPORTE": 956048
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2006,
+      "IMPORTE": 587721264
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2006,
+      "IMPORTE": 914851
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2006,
+      "IMPORTE": 5383195534
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2006,
+      "IMPORTE": 812329323
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2006,
+      "IMPORTE": 374967555
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2006,
+      "IMPORTE": 31441
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2006,
+      "IMPORTE": 1166795
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2006,
+      "IMPORTE": 1320629339
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2006,
+      "IMPORTE": 28148928
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2006,
+      "IMPORTE": 35733887
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2006,
+      "IMPORTE": 13190691
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2006,
+      "IMPORTE": 746842565
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2006,
+      "IMPORTE": 12965576
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2006,
+      "IMPORTE": 136458195
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2006,
+      "IMPORTE": 101157212
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2006,
+      "IMPORTE": 226260196
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2006,
+      "IMPORTE": 2193423074
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2006,
+      "IMPORTE": 786224948
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2006,
+      "IMPORTE": 4234910267
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2006,
+      "IMPORTE": 2005102
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2006,
+      "IMPORTE": 6653281
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2005,
+      "IMPORTE": 1267543355
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 802890500
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 4883741289
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 9773726914
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2005,
+      "IMPORTE": 1373316009
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 1048859799
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 6510322324
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 533141127
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 308087657
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 8758031
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 1199994092
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 22672598
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2005,
+      "IMPORTE": 3292120
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2005,
+      "IMPORTE": 79
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2005,
+      "IMPORTE": 371138795
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2005,
+      "IMPORTE": 67549263
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2005,
+      "IMPORTE": 66701978
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2005,
+      "IMPORTE": 575
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2005,
+      "IMPORTE": 846709
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2005,
+      "IMPORTE": 550311216
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2005,
+      "IMPORTE": 588871
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2005,
+      "IMPORTE": 4332841202
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2005,
+      "IMPORTE": 882889512
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2005,
+      "IMPORTE": 309236371
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2005,
+      "IMPORTE": 133982
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2005,
+      "IMPORTE": 1563484
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2005,
+      "IMPORTE": 1062382172
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2005,
+      "IMPORTE": 27048302
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2005,
+      "IMPORTE": 46332616
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2005,
+      "IMPORTE": 9445224
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2005,
+      "IMPORTE": 555890742
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2005,
+      "IMPORTE": 10852958
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2005,
+      "IMPORTE": 116810903
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2005,
+      "IMPORTE": 86049182
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2005,
+      "IMPORTE": 196429873
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2005,
+      "IMPORTE": 1834134182
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2005,
+      "IMPORTE": 718889087
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2005,
+      "IMPORTE": 3957299055
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2005,
+      "IMPORTE": 2766772
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2005,
+      "IMPORTE": 5991259
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2004,
+      "IMPORTE": 968482422
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 553086047
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 4774579421
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 8986068416
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2004,
+      "IMPORTE": 1287372035
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 878787950
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 6137204012
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 448696617
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 234007803
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 8935710
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 895622438
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 5979061
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2004,
+      "IMPORTE": 4044808
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2004,
+      "IMPORTE": 110
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2004,
+      "IMPORTE": 332512412
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2004,
+      "IMPORTE": 72859985
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2004,
+      "IMPORTE": 72143268
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2004,
+      "IMPORTE": 1683
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2004,
+      "IMPORTE": 715033
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2004,
+      "IMPORTE": 517013925
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2004,
+      "IMPORTE": 345316
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2004,
+      "IMPORTE": 4257220180
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2004,
+      "IMPORTE": 795016246
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2004,
+      "IMPORTE": 281166310
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2004,
+      "IMPORTE": 40111
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2004,
+      "IMPORTE": 1263800
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2004,
+      "IMPORTE": 1004901813
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2004,
+      "IMPORTE": 26062631
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2004,
+      "IMPORTE": 36386058
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2004,
+      "IMPORTE": 6293059
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2004,
+      "IMPORTE": 419446531
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2004,
+      "IMPORTE": 10411244
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2004,
+      "IMPORTE": 103595894
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2004,
+      "IMPORTE": 79844472
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2004,
+      "IMPORTE": 196748062
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2004,
+      "IMPORTE": 1567122613
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2004,
+      "IMPORTE": 629653981
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2004,
+      "IMPORTE": 3940427417
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2004,
+      "IMPORTE": 3591765
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2004,
+      "IMPORTE": 5343945
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2003,
+      "IMPORTE": 847888413
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 604558961
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 4496151608
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 8169285231
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2003,
+      "IMPORTE": 1322833512
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 709900645
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 5614365027
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 354220815
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 167965233
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 8911449
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 770542707
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2003,
+      "IMPORTE": 3982058
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2003,
+      "IMPORTE": 40
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2003,
+      "IMPORTE": 162001648
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2003,
+      "IMPORTE": 77345706
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2003,
+      "IMPORTE": 76810218
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2003,
+      "IMPORTE": 7914
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2003,
+      "IMPORTE": 527574
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2003,
+      "IMPORTE": 504480456
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2003,
+      "IMPORTE": 150389
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2003,
+      "IMPORTE": 3991520763
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2003,
+      "IMPORTE": 688877288
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2003,
+      "IMPORTE": 339191904
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2003,
+      "IMPORTE": 19531156
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2003,
+      "IMPORTE": 2538580
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2003,
+      "IMPORTE": 961571872
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2003,
+      "IMPORTE": 19068998
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2003,
+      "IMPORTE": 29493168
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2003,
+      "IMPORTE": 5348987
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2003,
+      "IMPORTE": 325038255
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2003,
+      "IMPORTE": 10977968
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2003,
+      "IMPORTE": 84962572
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2003,
+      "IMPORTE": 74146987
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2003,
+      "IMPORTE": 160863711
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2003,
+      "IMPORTE": 1377915293
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2003,
+      "IMPORTE": 606954520
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2003,
+      "IMPORTE": 3629495214
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2003,
+      "IMPORTE": 3786242
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2003,
+      "IMPORTE": 5125208
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2002,
+      "IMPORTE": 847226717
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 607660915
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 4797847096
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 7753274969
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2002,
+      "IMPORTE": 1252631834
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 680104399
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 5363880475
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 297627833
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 159030428
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 5323267
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 796522347
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2002,
+      "IMPORTE": 2944147
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2002,
+      "IMPORTE": 118
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2002,
+      "IMPORTE": 185917167
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2002,
+      "IMPORTE": 50704370
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2002,
+      "IMPORTE": 50075157
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2002,
+      "IMPORTE": 18486
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2002,
+      "IMPORTE": 610727
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2002,
+      "IMPORTE": 537922811
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2002,
+      "IMPORTE": 112376
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2002,
+      "IMPORTE": 4259811909
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2002,
+      "IMPORTE": 563631325
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2002,
+      "IMPORTE": 517700551
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2002,
+      "IMPORTE": 21484299
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2002,
+      "IMPORTE": 5134077
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2002,
+      "IMPORTE": 708312906
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2002,
+      "IMPORTE": 19318675
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2002,
+      "IMPORTE": 26263928
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2002,
+      "IMPORTE": 6109964
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2002,
+      "IMPORTE": 307189170
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2002,
+      "IMPORTE": 11874697
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2002,
+      "IMPORTE": 81051243
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2002,
+      "IMPORTE": 72727200
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2002,
+      "IMPORTE": 155569522
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2002,
+      "IMPORTE": 1262165812
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2002,
+      "IMPORTE": 588450547
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2002,
+      "IMPORTE": 3513264115
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2002,
+      "IMPORTE": 2293385
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2002,
+      "IMPORTE": 3029882
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2001,
+      "IMPORTE": 797021195
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 402656008
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 4450704312
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 7397548145
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2001,
+      "IMPORTE": 1379301522
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 610778426
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 4976288848
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 310890027
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 120289322
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 2260694
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 725563365
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 6
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2001,
+      "IMPORTE": 2673841
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2001,
+      "IMPORTE": 1024
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2001,
+      "IMPORTE": 320232486
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2001,
+      "IMPORTE": 71457831
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2001,
+      "IMPORTE": 70960889
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2001,
+      "IMPORTE": 66
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2001,
+      "IMPORTE": 496875
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2001,
+      "IMPORTE": 560665998
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2001,
+      "IMPORTE": 132438
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2001,
+      "IMPORTE": 3889905877
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2001,
+      "IMPORTE": 647405386
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2001,
+      "IMPORTE": 650574350
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2001,
+      "IMPORTE": 35369796
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2001,
+      "IMPORTE": 4571372
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2001,
+      "IMPORTE": 688786003
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2001,
+      "IMPORTE": 28864006
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2001,
+      "IMPORTE": 21555464
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2001,
+      "IMPORTE": 7784227
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2001,
+      "IMPORTE": 242471959
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2001,
+      "IMPORTE": 10666661
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2001,
+      "IMPORTE": 76125041
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2001,
+      "IMPORTE": 71942884
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2001,
+      "IMPORTE": 151368185
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2001,
+      "IMPORTE": 1243257118
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2001,
+      "IMPORTE": 536454930
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2001,
+      "IMPORTE": 3196576799
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2001,
+      "IMPORTE": 1312481
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2001,
+      "IMPORTE": 948214
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 2000,
+      "IMPORTE": 1010468783
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 645064867
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 4230542707
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 7257831668
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 2000,
+      "IMPORTE": 1239496756
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 527925472
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 5123952813
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 264872925
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 101583701
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 1209249
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 894632529
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 2
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 2000,
+      "IMPORTE": 2577829
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2000,
+      "IMPORTE": 83
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2000,
+      "IMPORTE": 246989748
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2000,
+      "IMPORTE": 115836254
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2000,
+      "IMPORTE": 115118465
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2000,
+      "IMPORTE": 11368
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 2000,
+      "IMPORTE": 706421
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2000,
+      "IMPORTE": 605006813
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2000,
+      "IMPORTE": 97478
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2000,
+      "IMPORTE": 3625438417
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 2000,
+      "IMPORTE": 644428398
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2000,
+      "IMPORTE": 477133558
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2000,
+      "IMPORTE": 4392963
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2000,
+      "IMPORTE": 1296874
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 2000,
+      "IMPORTE": 756673361
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2000,
+      "IMPORTE": 13893078
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2000,
+      "IMPORTE": 15844408
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2000,
+      "IMPORTE": 4968454
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2000,
+      "IMPORTE": 208886475
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2000,
+      "IMPORTE": 9916736
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2000,
+      "IMPORTE": 63139278
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2000,
+      "IMPORTE": 60434438
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 2000,
+      "IMPORTE": 150842605
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2000,
+      "IMPORTE": 1304482388
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2000,
+      "IMPORTE": 548949668
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 2000,
+      "IMPORTE": 3270520756
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 2000,
+      "IMPORTE": 990938
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 2000,
+      "IMPORTE": 218312
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1999,
+      "IMPORTE": 1465134264
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 1275953242
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 3804199920
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 6222776959
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1999,
+      "IMPORTE": 1139672085
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 449106884
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 4325082538
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 233381461
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 75533992
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 2117890
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 1423617658
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 27
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1999,
+      "IMPORTE": 2088176
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1999,
+      "IMPORTE": 40
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1999,
+      "IMPORTE": 145576172
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1999,
+      "IMPORTE": 41516606
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1999,
+      "IMPORTE": 40972259
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1999,
+      "IMPORTE": 1837
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1999,
+      "IMPORTE": 542510
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1999,
+      "IMPORTE": 432064032
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1999,
+      "IMPORTE": 200657
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1999,
+      "IMPORTE": 3371935230
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1999,
+      "IMPORTE": 560032728
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1999,
+      "IMPORTE": 307753694
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1999,
+      "IMPORTE": 4514471
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1999,
+      "IMPORTE": 16274
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1999,
+      "IMPORTE": 827387646
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1999,
+      "IMPORTE": 8255978
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1999,
+      "IMPORTE": 11725333
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1999,
+      "IMPORTE": 2743171
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1999,
+      "IMPORTE": 195422752
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1999,
+      "IMPORTE": 11060025
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1999,
+      "IMPORTE": 51743877
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1999,
+      "IMPORTE": 62494506
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1999,
+      "IMPORTE": 105661241
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1999,
+      "IMPORTE": 820485964
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1999,
+      "IMPORTE": 522376714
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1999,
+      "IMPORTE": 2982219860
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1999,
+      "IMPORTE": 1527810
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1999,
+      "IMPORTE": 590080
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1998,
+      "IMPORTE": 1643396261
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 1620637292
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 4553029710
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 7321438226
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1998,
+      "IMPORTE": 1137717544
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 563985883
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 5122215048
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 323632331
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 173887420
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 3567388
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 1622516168
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1998,
+      "IMPORTE": 1795161
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1998,
+      "IMPORTE": 36
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1998,
+      "IMPORTE": 83679
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1998,
+      "IMPORTE": 20880093
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1998,
+      "IMPORTE": 20595305
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1998,
+      "IMPORTE": 5455
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1998,
+      "IMPORTE": 279333
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1998,
+      "IMPORTE": 471752372
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1998,
+      "IMPORTE": 482768
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1998,
+      "IMPORTE": 4080794571
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1998,
+      "IMPORTE": 981453237
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1998,
+      "IMPORTE": 298358205
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1998,
+      "IMPORTE": 2055431
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1998,
+      "IMPORTE": 35691
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1998,
+      "IMPORTE": 837268218
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1998,
+      "IMPORTE": 7710698
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1998,
+      "IMPORTE": 9662530
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1998,
+      "IMPORTE": 2689413
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1998,
+      "IMPORTE": 300175413
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1998,
+      "IMPORTE": 14276727
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1998,
+      "IMPORTE": 55658368
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1998,
+      "IMPORTE": 66066505
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1998,
+      "IMPORTE": 107746230
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1998,
+      "IMPORTE": 1535038940
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1998,
+      "IMPORTE": 533091507
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1998,
+      "IMPORTE": 3054084601
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1998,
+      "IMPORTE": 2781583
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1998,
+      "IMPORTE": 785805
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1997,
+      "IMPORTE": 1952161124
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 1899955972
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 4079211564
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 6980046948
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1997,
+      "IMPORTE": 970486680
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 596866399
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 4856208244
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 353858487
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 202627139
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 2929759
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 1901491485
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 10
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1997,
+      "IMPORTE": 1535423
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1997,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1997,
+      "IMPORTE": 80
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1997,
+      "IMPORTE": 50669639
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1997,
+      "IMPORTE": 50536909
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1997,
+      "IMPORTE": 18753
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1997,
+      "IMPORTE": 113977
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1997,
+      "IMPORTE": 484189603
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1997,
+      "IMPORTE": 943057
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1997,
+      "IMPORTE": 3594078904
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1997,
+      "IMPORTE": 1061996279
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1997,
+      "IMPORTE": 314317828
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1997,
+      "IMPORTE": 1163478
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1997,
+      "IMPORTE": 73514
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1997,
+      "IMPORTE": 654931859
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1997,
+      "IMPORTE": 6183545
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1997,
+      "IMPORTE": 10741174
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1997,
+      "IMPORTE": 2607463
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1997,
+      "IMPORTE": 351068530
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1997,
+      "IMPORTE": 14339353
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1997,
+      "IMPORTE": 57516515
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1997,
+      "IMPORTE": 53047851
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1997,
+      "IMPORTE": 101361968
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1997,
+      "IMPORTE": 1474862276
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1997,
+      "IMPORTE": 556579619
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1997,
+      "IMPORTE": 2824766348
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1997,
+      "IMPORTE": 2219399
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1997,
+      "IMPORTE": 710361
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1996,
+      "IMPORTE": 1613661485
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 1518497156
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 3943323156
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 6553866904
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1996,
+      "IMPORTE": 1037540491
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 463828107
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 4531060135
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 357532585
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 163905585
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 1362801
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 1564540044
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 40
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1996,
+      "IMPORTE": 1866607
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1996,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1996,
+      "IMPORTE": 44176241
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1996,
+      "IMPORTE": 49121441
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1996,
+      "IMPORTE": 49036428
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1996,
+      "IMPORTE": 13831
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1996,
+      "IMPORTE": 71182
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1996,
+      "IMPORTE": 371547989
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1996,
+      "IMPORTE": 923681
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1996,
+      "IMPORTE": 3570851486
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1996,
+      "IMPORTE": 882707956
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1996,
+      "IMPORTE": 299266103
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1996,
+      "IMPORTE": 543549
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1996,
+      "IMPORTE": 15795
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1996,
+      "IMPORTE": 737715045
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1996,
+      "IMPORTE": 4737307
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1996,
+      "IMPORTE": 9683163
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1996,
+      "IMPORTE": 2063580
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1996,
+      "IMPORTE": 262552619
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1996,
+      "IMPORTE": 11670008
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1996,
+      "IMPORTE": 50390592
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1996,
+      "IMPORTE": 39528396
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1996,
+      "IMPORTE": 83202441
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1996,
+      "IMPORTE": 1415961631
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1996,
+      "IMPORTE": 478768491
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1996,
+      "IMPORTE": 2636330013
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1996,
+      "IMPORTE": 665224
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1996,
+      "IMPORTE": 697577
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1995,
+      "IMPORTE": 2047174455
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 1993180947
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 3163153380
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 6632530570
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1995,
+      "IMPORTE": 775489487
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 536382179
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 4703251997
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 380936851
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 236470056
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 1479578
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 1994404496
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 524
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1995,
+      "IMPORTE": 1222809
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1995,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1995,
+      "IMPORTE": 216
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1995,
+      "IMPORTE": 52769959
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1995,
+      "IMPORTE": 52699596
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1995,
+      "IMPORTE": 4094
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1995,
+      "IMPORTE": 66269
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1995,
+      "IMPORTE": 406578622
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1995,
+      "IMPORTE": 723426
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1995,
+      "IMPORTE": 2755851332
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1995,
+      "IMPORTE": 761226016
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1995,
+      "IMPORTE": 215278804
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1995,
+      "IMPORTE": 16721664
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1995,
+      "IMPORTE": 22254
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1995,
+      "IMPORTE": 543466765
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1995,
+      "IMPORTE": 4246535
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1995,
+      "IMPORTE": 9867500
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1995,
+      "IMPORTE": 1649107
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1995,
+      "IMPORTE": 350746349
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1995,
+      "IMPORTE": 11001174
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1995,
+      "IMPORTE": 40731289
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1995,
+      "IMPORTE": 37612402
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1995,
+      "IMPORTE": 80527821
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1995,
+      "IMPORTE": 1637023220
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1995,
+      "IMPORTE": 447091398
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1995,
+      "IMPORTE": 2619137380
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1995,
+      "IMPORTE": 1273489
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1995,
+      "IMPORTE": 206088
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1994,
+      "IMPORTE": 1817456365
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 1797989284
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 3022758831
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 6233658435
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1994,
+      "IMPORTE": 711220013
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 467992452
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 4462489552
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 335245969
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 256710450
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 1603111
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 1799060901
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 5
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1994,
+      "IMPORTE": 1069880
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1994,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1994,
+      "IMPORTE": 1732
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1994,
+      "IMPORTE": 18395464
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1994,
+      "IMPORTE": 18356691
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1994,
+      "IMPORTE": 6892
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1994,
+      "IMPORTE": 31881
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1994,
+      "IMPORTE": 1007874269
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1994,
+      "IMPORTE": 524149
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1994,
+      "IMPORTE": 2014360412
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1994,
+      "IMPORTE": 795953107
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1994,
+      "IMPORTE": 161451368
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1994,
+      "IMPORTE": 33798184
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1994,
+      "IMPORTE": 2981
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1994,
+      "IMPORTE": 515967480
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1994,
+      "IMPORTE": 3000505
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1994,
+      "IMPORTE": 9132772
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1994,
+      "IMPORTE": 876195
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1994,
+      "IMPORTE": 313413379
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1994,
+      "IMPORTE": 10364032
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1994,
+      "IMPORTE": 32802936
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1994,
+      "IMPORTE": 27262293
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1994,
+      "IMPORTE": 71140340
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1994,
+      "IMPORTE": 1494792654
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1994,
+      "IMPORTE": 482844442
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1994,
+      "IMPORTE": 2484852456
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1994,
+      "IMPORTE": 1309063
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1994,
+      "IMPORTE": 294048
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1993,
+      "IMPORTE": 1990043008
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 1877725044
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 2239575544
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 5248011189
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1993,
+      "IMPORTE": 503147951
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 324142568
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 3875502431
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 304413557
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 240804682
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 2390860
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 1971576066
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 25
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1993,
+      "IMPORTE": 265975
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1993,
+      "IMPORTE": 1
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1993,
+      "IMPORTE": 93585021
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1993,
+      "IMPORTE": 18466941
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1993,
+      "IMPORTE": 18444453
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1993,
+      "IMPORTE": 2734
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1993,
+      "IMPORTE": 19754
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1993,
+      "IMPORTE": 857288596
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1993,
+      "IMPORTE": 87932
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1993,
+      "IMPORTE": 1382199016
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1993,
+      "IMPORTE": 627438815
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1993,
+      "IMPORTE": 147158687
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1993,
+      "IMPORTE": 6801726
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1993,
+      "IMPORTE": 1195
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1993,
+      "IMPORTE": 349186342
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1993,
+      "IMPORTE": 2860774
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1993,
+      "IMPORTE": 7199944
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1993,
+      "IMPORTE": 516829
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1993,
+      "IMPORTE": 190977780
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1993,
+      "IMPORTE": 6856903
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1993,
+      "IMPORTE": 26600737
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1993,
+      "IMPORTE": 22184832
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1993,
+      "IMPORTE": 66944770
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1993,
+      "IMPORTE": 1336944951
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1993,
+      "IMPORTE": 394399596
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1993,
+      "IMPORTE": 2144157885
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1993,
+      "IMPORTE": 2258829
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1993,
+      "IMPORTE": 132031
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1992,
+      "IMPORTE": 1489219592
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 1422045694
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 1888683959
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 3892928287
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1992,
+      "IMPORTE": 325382188
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 202518732
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 3062225148
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 195572503
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 107229716
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 13161406
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 1477655815
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1992,
+      "IMPORTE": 28409
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1992,
+      "IMPORTE": 114349
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1992,
+      "IMPORTE": 55467363
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1992,
+      "IMPORTE": 11563777
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1992,
+      "IMPORTE": 11543199
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1992,
+      "IMPORTE": 4691
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1992,
+      "IMPORTE": 15887
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1992,
+      "IMPORTE": 750259501
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1992,
+      "IMPORTE": 19125
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1992,
+      "IMPORTE": 1138405333
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1992,
+      "IMPORTE": 297560873
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1992,
+      "IMPORTE": 123944030
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1992,
+      "IMPORTE": 10041420
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1992,
+      "IMPORTE": 14552
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1992,
+      "IMPORTE": 191382186
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1992,
+      "IMPORTE": 1148942
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1992,
+      "IMPORTE": 6012399
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1992,
+      "IMPORTE": 247942
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1992,
+      "IMPORTE": 89636101
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1992,
+      "IMPORTE": 3544970
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1992,
+      "IMPORTE": 40892631
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1992,
+      "IMPORTE": 16941445
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1992,
+      "IMPORTE": 44094302
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1992,
+      "IMPORTE": 910101527
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1992,
+      "IMPORTE": 342493649
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1992,
+      "IMPORTE": 1809629972
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1992,
+      "IMPORTE": 870686
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1992,
+      "IMPORTE": 12290720
+    },
+    {
+      "PRODUCTO": "PRINCIPALES",
+      "CATEGORIA": "General",
+      "DATE": 1991,
+      "IMPORTE": 1204426540
+    },
+    {
+      "PRODUCTO": "Derivados del petróleo",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 1203822670
+    },
+    {
+      "PRODUCTO": "OTROS AGROPECUARIOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 1011481838
+    },
+    {
+      "PRODUCTO": "INDUSTRIALES ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 3170337748
+    },
+    {
+      "PRODUCTO": "AGROINDUSTRIALES ",
+      "CATEGORIA": "INDUSTRIALES ",
+      "DATE": 1991,
+      "IMPORTE": 244995119
+    },
+    {
+      "PRODUCTO": "INDUSTRIA LIVIANA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 131599962
+    },
+    {
+      "PRODUCTO": "INDUSTRIA BASICA ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 2579371689
+    },
+    {
+      "PRODUCTO": "MAQUINARIA Y EQUIPO ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 150334984
+    },
+    {
+      "PRODUCTO": "INDUSTRIA AUTOMOTRIZ ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 64035994
+    },
+    {
+      "PRODUCTO": "DEMAS PRODUCTOS ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 1817806
+    },
+    {
+      "PRODUCTO": "Tradicionales ",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 1203954597
+    },
+    {
+      "PRODUCTO": "Café",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Carbón",
+      "CATEGORIA": "PRINCIPALES",
+      "DATE": 1991,
+      "IMPORTE": 69957
+    },
+    {
+      "PRODUCTO": "Ferroniquel",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1991,
+      "IMPORTE": 61970
+    },
+    {
+      "PRODUCTO": "Petróleo",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1991,
+      "IMPORTE": 0
+    },
+    {
+      "PRODUCTO": "Otros ",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1991,
+      "IMPORTE": 471943
+    },
+    {
+      "PRODUCTO": "Banano",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1991,
+      "IMPORTE": 464898
+    },
+    {
+      "PRODUCTO": "Esmeraldas",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1991,
+      "IMPORTE": 6460
+    },
+    {
+      "PRODUCTO": "Flores",
+      "CATEGORIA": "Derivados del petróleo",
+      "DATE": 1991,
+      "IMPORTE": 585
+    },
+    {
+      "PRODUCTO": "Demás agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1991,
+      "IMPORTE": 182196495
+    },
+    {
+      "PRODUCTO": "Camarones",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1991,
+      "IMPORTE": 37882
+    },
+    {
+      "PRODUCTO": "Franjas agropecuarios",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1991,
+      "IMPORTE": 829247461
+    },
+    {
+      "PRODUCTO": "DEMAS MINEROS ",
+      "CATEGORIA": "OTROS AGROPECUARIOS ",
+      "DATE": 1991,
+      "IMPORTE": 285636670
+    },
+    {
+      "PRODUCTO": "Demás agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1991,
+      "IMPORTE": 124297003
+    },
+    {
+      "PRODUCTO": "Azúcar",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1991,
+      "IMPORTE": 9329
+    },
+    {
+      "PRODUCTO": "Productos del café",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1991,
+      "IMPORTE": 13500
+    },
+    {
+      "PRODUCTO": "Franja agroindustriales",
+      "CATEGORIA": "AGROINDUSTRIALES ",
+      "DATE": 1991,
+      "IMPORTE": 120675287
+    },
+    {
+      "PRODUCTO": "Calzado",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1991,
+      "IMPORTE": 368935
+    },
+    {
+      "PRODUCTO": "Confecciones",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1991,
+      "IMPORTE": 4331524
+    },
+    {
+      "PRODUCTO": "Manufacturas de cuero",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1991,
+      "IMPORTE": 188042
+    },
+    {
+      "PRODUCTO": "Demás industria liviana",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1991,
+      "IMPORTE": 48508515
+    },
+    {
+      "PRODUCTO": "Editoriales",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1991,
+      "IMPORTE": 3850553
+    },
+    {
+      "PRODUCTO": "Productos de plástico",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1991,
+      "IMPORTE": 16639659
+    },
+    {
+      "PRODUCTO": "Jabones, cosméticos, otros",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1991,
+      "IMPORTE": 16253761
+    },
+    {
+      "PRODUCTO": "Textiles",
+      "CATEGORIA": "INDUSTRIA LIVIANA ",
+      "DATE": 1991,
+      "IMPORTE": 41458973
+    },
+    {
+      "PRODUCTO": "Metalúrgica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1991,
+      "IMPORTE": 645508084
+    },
+    {
+      "PRODUCTO": "Papel",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1991,
+      "IMPORTE": 314335346
+    },
+    {
+      "PRODUCTO": "Química básica",
+      "CATEGORIA": "INDUSTRIA BASICA ",
+      "DATE": 1991,
+      "IMPORTE": 1619528259
+    },
+    {
+      "PRODUCTO": "De ellos armas",
+      "CATEGORIA": "OTROS",
+      "DATE": 1991,
+      "IMPORTE": 1804738
+    },
+    {
+      "PRODUCTO": "Diversos",
+      "CATEGORIA": "OTROS",
+      "DATE": 1991,
+      "IMPORTE": 13068
+    }
+   ]

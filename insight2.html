@@ -1,0 +1,121 @@
+<!DOCTYPE html>-
+<meta charset="utf-8">
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+  <title>Importaciones en Colombia</title>
+  <link href="css/insights.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="js/pie.js"></script>
+  <script src="js/bars2.js"></script>
+</head>
+<body>
+  <h1>¿Qué importa Colombia? (1995-2016)</h1>
+
+    <div  id="disclaimer" > 
+      <h4>Información del autor</h4>
+      <li>Alumno: Carlos Moreno </li>
+      <li>Código: 201627339  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+      <li>Curso: Visual Analitycs &nbsp;</li>
+      <br>
+    </div >
+    <br>
+  <div>
+    <p>
+      <h3>Contexto</h3>
+     <p style="text-align: justify;">Esta investigación registra el ingreso legal de mercancías originarias de otro país o de una zona franca colombiana hacia el territorio aduanero nacional.<br><br>Estas cifras se producen con base en las declaraciones de importación presentadas ante las diferentes administraciones de aduanas del país y se registran estadísticamente, según la fecha de presentación ante las entidades financieras autorizadas para recaudar los tributos aduaneros.<br><br>Las estadísticas de importaciones colombianas son producidas por la Dirección de Impuestos y Aduanas Nacionales (DIAN). El DANE, en busca de asegurar y garantizar la veracidad e imparcialidad de la información, está publicando las estadísticas de importaciones colombianas agregadas en cuatro grandes grupos definidos por la Organización Mundial de Comercio (OMC), basada en la Clasificación Uniforme del Comercio Internacional: agropecuario, alimentos y bebidas (incluye productos alimenticios, animales vivos, tabaco, grasas y aceites, entre otros productos), combustibles y productos de las industrias extractivas (incluye el petróleo crudo y sus derivados y carbón, entre otros), manufacturas (contiene productos químicos, maquinaria y equipo de transporte) y otros sectores (incluye oro no monetario y productos no clasificados en las anteriores agrupaciones).</p><br>
+      <li>Fuente de los <a href="https://www.nube-mcit.gov.co/public.php?service=files&t=3040a9a7106f89ad382a71dd9993e4ba&path=%2FImportaciones%2FFOBDO%2FSECTOR%2FHIST%C3%93RICO&files=impo_fob_SECTORES%20GENERAL.xlsx&download">datos</a></li>
+
+      <h3>Objetivo del proyecto y tecnologías usadas</h3>
+      <p>
+        El objetivo del proyecto es generar una herramienta que permita ver patrones en el comportamiento de las importaiones en Colombia para el periodo 1991 - 2017.<br>
+        La técnologia utilizada fue html, css,javascript +  libreria D3 V5. Los datos se manipularon en los formatos csv y json
+      </p>
+      <h3>Analisis de los datos</h3>
+
+      <li>Preprocesamiento de datos</li>
+      <p>
+        Se generaron  dos sets de datos eon el fin de agilizar el acceso a los detalles.<br>
+        Se reordenaron los atribustos de manera que permitieran seleccionarlos facilmente por año.
+      </p>
+      <li><b><i>WHAT</li></b>
+      <h3>Atributos utilizados par ala visualización</h3>
+      <table id="instrucct">
+        <th>Tipos de atributos</th>
+        <tr><td>PRODUCTO</td><td>Categorico</td></tr>
+        <tr><td>CATEGORIA</td><td>Categorico</td></tr>
+        <tr><td>DATE</td><td>Ordenado - Ordinal - Secuencial</td></tr>
+        <tr><td>IMPORTE</td> <td>Ordenado - Cuantitativo</td></tr>
+      </table>
+              
+      <li><b><i>WHY</li></b>
+
+         <table id="instrucct">
+          <tr><td>
+            Analyze - Consume- Discover >> Distribution<br>
+            Search - Browse  >> Features<br>
+            Sumarize >> Features<br>
+            </td></tr>
+      </table>
+      <li><b><i>HOW</li></b>
+         <table id="instrucct">
+        <th>Marcas y Canales</th>
+        <tr><td>Marca</td><td>Canale</td></tr>
+        <tr><td>Line</td><td>Color-Hue</td></tr>
+        <tr><td>-- --</td><td>Pos X</td></tr>
+        <tr><td>-- -- </td> <td>Pos Y</td></tr>
+      </table>
+    </p>
+  </div>
+
+  <div>
+      <blockquote id="instrucct"><h4>Instrucciones</h4><br>
+        - La visulización se carga automaticamente y queda a la espera que el usuario explore su funcionamiento. 
+          Los datos fueron descargados de manera que su acceso sea indeendiente de los seridores fuente.
+        - Pase el cursor del mouse sobre cada tema de la columna central para visualizar las cantdades en kilos importadas a Colombia en cada año.<br>- Haga clic sobre la barra correspondiente a cada año  para consultar los productos y su comportamiento en ese año en particular.<br>
+    </blockquote><br>
+  </div>
+
+<br>
+  <div id='layout'>
+    <div id='container'>
+      <svg />
+    </div>
+<br><Br>
+    <div id="chart-area">
+      <chart />
+    </div>
+  </div>
+
+  <div>
+    <br>
+    <h2>Licencia MIT</h2>
+
+      <p>Copyright <i>2018</i> Carlos Moreno-Ibarguen</p>
+
+      <p>Permission is hereby granted, free of charge, to any person obtaining a copy
+      of this software and associated documentation files (the "Software"), to deal
+      in the Software without restriction, including without limitation the rights
+      to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+      copies of the Software, and to permit persons to whom the Software is
+      furnished to do so, subject to the following conditions:</p>
+
+      <p>The above copyright notice and this permission notice shall be included in
+      all copies or substantial portions of the Software.</p>
+
+      <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+      IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+      FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+      AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+      LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+      OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+      THE SOFTWARE.</p>
+      <p>Insights related to data on the behavior of imports in Colombia from 1991 to 2017</p>
+  </div>
+
+
+</body>
+</html>
