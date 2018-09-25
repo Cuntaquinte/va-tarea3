@@ -2,10 +2,9 @@
 
 // Get a subset of the data based on the group
 function getFilteredData(text,iDate) {
-    console.log("Aqui fueGorrupleto:"+iDate)
       d3.selectAll("chart").remove();
 
-d3.json("importaciones.json").then(dat => {  
+d3.json("data/importaciones.json").then(dat => {  
       var width = 400; 
       var height = 300; 
       var svg = d3.select("#chart-area").append("chart").append("svg").attr("width", width).attr("height", height);   
