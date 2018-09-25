@@ -16,9 +16,7 @@ d3.json("data/importaciones.json").then(dat => {
       g = svg.append("g").attr("transform", "translate(" + (width+100) + "," + (height-50) +")");
      
       
-
       var color = d3.scaleOrdinal(d3.schemeDark2);
-        // .range(["#DC3912", "#3366CC", "#109618", "#FF9900", "#990099"]);
      
       
       var pie = d3.pie()
@@ -56,6 +54,13 @@ d3.json("data/importaciones.json").then(dat => {
         .style("color", "#000000")
         .attr("text-anchor", "middle")
         .text(function(d) { return d.data.PRODUCTO; });
+
+     pieGroup.append('text')
+      .attr("fill", "#000000 !important")
+        .attr("font", "16px")
+      .attr('dy', -240)
+      .attr('text-anchor', 'middle')
+      .text('Importaciones en Colombia para '+iDate)
 
 })
 }
